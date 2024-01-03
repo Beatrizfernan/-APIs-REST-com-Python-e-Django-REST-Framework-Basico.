@@ -4,7 +4,7 @@ Esta é uma API simples desenvolvida em Django para gerenciar cursos e avaliaç�
 
 ## **Conteúdo**
 
-1. [Sobre o Projeto](https://chat.openai.com/c/53db5aab-641c-4898-b59f-55946c6a6dd8#sobre-o-projeto)
+1. [Sobre o Projeto](#sobre-o-projeto)
 2. [Estrutura do Projeto](https://chat.openai.com/c/53db5aab-641c-4898-b59f-55946c6a6dd8#estrutura-do-projeto)
 3. [Requisitos](https://chat.openai.com/c/53db5aab-641c-4898-b59f-55946c6a6dd8#requisitos)
 4. [Configuração do Ambiente](https://chat.openai.com/c/53db5aab-641c-4898-b59f-55946c6a6dd8#configura%C3%A7%C3%A3o-do-ambiente)
